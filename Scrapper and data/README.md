@@ -4,13 +4,12 @@
 1. Salary Details in 2nd DataFrame
 
 ## Pre-requisites
-1. Working knowledge of python
-1. python version 3.x
-1. Jupyter notebook installed
-1. Very basic knowledge of html
-1. Some knowledge of XPath would also go a long way.
-1. selenium library installed
-1. ChromeDriver placed on a directory you know.
+1. Understanding of python
+1. python 3
+1. Anaconda Environment 
+1. Website Architechture basics
+1. Knowledge of XPath. (Shared a very good resource below)
+1. selenium library  
 
 ## Resources :
 1. https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
